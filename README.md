@@ -1,2 +1,1 @@
-# projects
-Miscellaneous projects
+Miscellaneous projects of mine.
